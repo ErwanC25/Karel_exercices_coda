@@ -1,4 +1,6 @@
 # Exercice 4 : monter l’escalier avec repeter
+# commentaire stuff
+<<<<<<< HEAD
 repeter 3 fois:
     avancer
     tourner_gauche
@@ -9,3 +11,5 @@ repeter 3 fois:
 
 ramasser_balise
 # j'ajoute un commentaire 
+=======
+>>>>>>> parent of fc32183 (execice 4)
