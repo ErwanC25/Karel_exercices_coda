@@ -1,1 +1,10 @@
 # Exercice 4 : monter l’escalier avec repeter
+repeter 4 fois:
+    avancer
+    tourner_gauche
+    avancer
+    tourner_gauche
+    tourner_gauche
+    tourner_gauche
+
+ramasser_balise
