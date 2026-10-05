@@ -1,5 +1,5 @@
 # Exercice 4 : monter l’escalier avec repeter
-repeter 4 fois:
+repeter 3 fois:
     avancer
     tourner_gauche
     avancer
