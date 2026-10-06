@@ -4,3 +4,4 @@ Comment est votre blanquette ?
 
 # Réponse étudiant :
 
+de couleur verte
